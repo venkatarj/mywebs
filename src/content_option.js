@@ -8,11 +8,10 @@ const introdata = {
     title: "I’m Rohith",
     animated: {
         first: "I love coding",
-        second: "Code, circuits, and creativity.",
-        third: "Bringing innovation to life with embedded systems.",
+        second: "Bringing innovation to life with embedded systems.",
+        third: "Code, circuits, and creativity.",
     },
-    description: `Embedded Systems Engineer | Currently pursuing MS in Computer Engineering (Electrical Engineering focus) at ASU | Formerly employed at
-TCS`,
+    description: `Embedded Systems Engineer |Graduated in Arizona State University with Masters Degree in Computer Engineering | Formerly employed at Tata Consultancy Services`,
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
