@@ -12,7 +12,7 @@ const introdata = {
         third: "Code, circuits, and creativity.",
     },
     description: `Embedded Systems Engineer `,
-    description: `Graduated in Arizona State University with Masters Degree in Computer Engineering | Formerly employed at Tata Consultancy Services`,
+    description: `Graduated in Arizona State University with Masters Degree in Computer Engineering`,
     description: `Formerly employed at Tata Consultancy Services`,
 
 
