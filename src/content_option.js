@@ -1,7 +1,7 @@
 const logotext = "JV";
 const meta = {
     title: "Rohith JV",
-    description: "I’m Rohith ,currently purusing my masters in computer engineering at ASU.",
+    description: "I’m Rohith ,Graduated with a masters degree in Computer Engineering at ASU.",
 };
 
 const introdata = {
