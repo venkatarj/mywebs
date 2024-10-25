@@ -11,7 +11,11 @@ const introdata = {
         second: "Bringing innovation to life with embedded systems.",
         third: "Code, circuits, and creativity.",
     },
-    description: `Embedded Systems Engineer |Graduated in Arizona State University with Masters Degree in Computer Engineering | Formerly employed at Tata Consultancy Services`,
+    description: `Embedded Systems Engineer `,
+    description: `Graduated in Arizona State University with Masters Degree in Computer Engineering | Formerly employed at Tata Consultancy Services`,
+    description: `Formerly employed at Tata Consultancy Services`,
+
+
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
