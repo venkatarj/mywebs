@@ -19,8 +19,21 @@ const dataabout = {
     title: "abit about my self",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
-const worktimeline = [{
-        jobtitle: "Developer",
+const worktimeline = [
+    {
+        jobtitle:'Intern',
+        where:'Kernel Masters',
+        date:'Aug,2023 - May,2024',
+        description:
+            <>
+            <p>'Designed and developed an advanced diagnostic tool on the STM32F401RBTx platform, tailored for real-time vehicle data analysis and health monitoring.'</p>
+            <p>'Created to increase accuracy and responsiveness in vehicle diagnostics, addressing the need for precise and timely insights in automotive systems.'</p>
+            <p>'Integrated CAN communication with IoT for comprehensive data capture, while employing the ESP32 module to relay real-time vehicle health updates via WiFi.'</p>
+            <p>'Enhanced diagnostic data accuracy by 95%, and improved response times, enabling users to make data-driven decisions on vehicle health and maintenance.'</p>
+            </>
+    }
+    {
+        jobtitle: "Embedded Software Engineer",
         where: "Tata Consultancy Services Pvt Ltd.",
         date: "Aug,2021 - Aug,2022",
         description: 
@@ -28,7 +41,8 @@ const worktimeline = [{
     <p>Optimized Docker configuration, resulting in a 30% reduction in deployment time and improved system stability by 15%.</p>
     <p>Integrated JIRA and Git, reducing project delivery time by 20% through enhanced collaboration and code management.</p></>
           ,
-    },
+    }
+    ,
     {
         jobtitle:'Graduate Student Assistant',
         where:'Arizona State University',
